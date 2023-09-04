@@ -1,0 +1,33 @@
+2023-09-03 21:44:20,094.user_math_jakerood.INFO ==================================================
+2023-09-03 21:44:20,094.user_math_jakerood.INFO Today is 2023-09-03 at 09:44 PM
+2023-09-03 21:44:20,094.user_math_jakerood.INFO Running on: posix Darwin 20.4.0
+2023-09-03 21:44:20,095.user_math_jakerood.INFO Python version:  3.11.4
+2023-09-03 21:44:20,095.user_math_jakerood.INFO Python path: /Library/Frameworks/Python.framework/Versions/3.11
+2023-09-03 21:44:20,095.user_math_jakerood.INFO Working dir: /Users/jakerood/Documents/NW_Missouri/datafun-02-functions
+2023-09-03 21:44:20,095.user_math_jakerood.INFO ==================================================
+2023-09-03 21:44:20,095.user_math_jakerood.INFO Explore some functions in the math module
+2023-09-03 21:44:20,095.user_math_jakerood.INFO math.comb(5,1) = 5
+2023-09-03 21:44:20,095.user_math_jakerood.INFO math.perm(5,1) = 5
+2023-09-03 21:44:20,095.user_math_jakerood.INFO math.comb(5,3) = 10
+2023-09-03 21:44:20,095.user_math_jakerood.INFO math.perm(5,3) = 60
+2023-09-03 21:44:20,095.user_math_jakerood.INFO math.pi = 3.141592653589793
+2023-09-03 21:44:20,095.user_math_jakerood.INFO math.degrees(2 * math.pi) = 360.0
+2023-09-03 21:44:20,096.user_math_jakerood.INFO math.radians(180)         = 3.141592653589793
+2023-09-03 21:44:20,096.user_math_jakerood.INFO 
+2023-09-03 21:44:20,096.user_math_jakerood.INFO TRY: Call get_area_scoreboard() function with different values.
+2023-09-03 21:44:20,096.user_math_jakerood.INFO The area of the scoreboard is 2400
+2023-09-03 21:44:20,096.user_math_jakerood.INFO The area of the scoreboard is 1500
+2023-09-03 21:44:20,096.user_math_jakerood.INFO The area of the scoreboard is 800
+2023-09-03 21:44:20,096.user_math_jakerood.INFO 
+2023-09-03 21:44:20,096.user_math_jakerood.INFO TRY: Call get_batting_average() function with different values.
+2023-09-03 21:44:20,096.user_math_jakerood.INFO The player's batting average is  0.309
+2023-09-03 21:44:20,096.user_math_jakerood.INFO The player's batting average is  0.250
+2023-09-03 21:44:20,096.user_math_jakerood.INFO The player's batting average is  0.299
+2023-09-03 21:44:20,096.user_math_jakerood.INFO 
+2023-09-03 21:44:20,096.user_math_jakerood.INFO TRY: Call get_team_runs_per_game() function with a list of runs scored.
+2023-09-03 21:44:20,096.user_math_jakerood.INFO The team's average runs per game is  4.25
+2023-09-03 21:44:20,096.user_math_jakerood.INFO 
+2023-09-03 21:44:20,096.user_math_jakerood.INFO TRY: Call get_pitcher_era function with different values.
+2023-09-03 21:44:20,096.user_math_jakerood.INFO The pitcher's earned run average is  2.86
+2023-09-03 21:44:20,096.user_math_jakerood.INFO The pitcher's earned run average is  2.48
+2023-09-03 21:44:20,096.user_math_jakerood.INFO 
