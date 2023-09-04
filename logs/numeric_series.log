@@ -1,7 +1,35 @@
-2023-09-03 17:17:58,542.numeric_series.INFO ==================================================
-2023-09-03 17:17:58,542.numeric_series.INFO Today is 2023-09-03 at 05:17 PM
-2023-09-03 17:17:58,542.numeric_series.INFO Running on: posix Darwin 20.4.0
-2023-09-03 17:17:58,542.numeric_series.INFO Python version:  3.11.4
-2023-09-03 17:17:58,542.numeric_series.INFO Python path: /Library/Frameworks/Python.framework/Versions/3.11
-2023-09-03 17:17:58,542.numeric_series.INFO Working dir: /Users/jakerood/Documents/NW_Missouri/datafun-02-functions
-2023-09-03 17:17:58,543.numeric_series.INFO ==================================================
+2023-09-03 22:11:03,080.numeric_series.INFO ==================================================
+2023-09-03 22:11:03,080.numeric_series.INFO Today is 2023-09-03 at 10:11 PM
+2023-09-03 22:11:03,080.numeric_series.INFO Running on: posix Darwin 20.4.0
+2023-09-03 22:11:03,080.numeric_series.INFO Python version:  3.11.4
+2023-09-03 22:11:03,081.numeric_series.INFO Python path: /Library/Frameworks/Python.framework/Versions/3.11
+2023-09-03 22:11:03,081.numeric_series.INFO Working dir: /Users/jakerood/Documents/NW_Missouri/datafun-02-functions
+2023-09-03 22:11:03,081.numeric_series.INFO ==================================================
+2023-09-03 22:11:03,081.numeric_series.INFO Created: NumericSeries with name=Week 1 Runs Scored, units=runs, and 5 data points: [3, 4, 2, 7, 1]
+2023-09-03 22:11:03,081.numeric_series.INFO Created: NumericSeries with name=Week 2 Runs Scored, units=runs, and 5 data points: [8, 0, 3, 4, 2]
+2023-09-03 22:11:03,081.numeric_series.INFO Created: NumericSeries with name=Week 3 Runs Scored, units=runs, and 3 data points: [1, 2, 3]
+2023-09-03 22:11:03,081.numeric_series.INFO Created: NumericSeries with name=Week 4 Runs Scored, units=runs, and 5 data points: [3, 6, 2, 7, 4]
+2023-09-03 22:11:03,081.numeric_series.INFO NumericSeries with name=Week 1 Runs Scored, units=runs, and 5 data points: [3, 4, 2, 7, 1]
+2023-09-03 22:11:03,081.numeric_series.INFO Count: 5
+2023-09-03 22:11:03,082.numeric_series.INFO Sum: 17
+2023-09-03 22:11:03,082.numeric_series.INFO Mean: 3.4
+2023-09-03 22:11:03,082.numeric_series.INFO Median: 3
+2023-09-03 22:11:03,082.numeric_series.INFO ------------------
+2023-09-03 22:11:03,082.numeric_series.INFO NumericSeries with name=Week 2 Runs Scored, units=runs, and 5 data points: [8, 0, 3, 4, 2]
+2023-09-03 22:11:03,082.numeric_series.INFO Count: 5
+2023-09-03 22:11:03,082.numeric_series.INFO Sum: 17
+2023-09-03 22:11:03,082.numeric_series.INFO Mean: 3.4
+2023-09-03 22:11:03,082.numeric_series.INFO Median: 3
+2023-09-03 22:11:03,082.numeric_series.INFO ------------------
+2023-09-03 22:11:03,082.numeric_series.INFO NumericSeries with name=Week 3 Runs Scored, units=runs, and 3 data points: [1, 2, 3]
+2023-09-03 22:11:03,082.numeric_series.INFO Count: 3
+2023-09-03 22:11:03,082.numeric_series.INFO Sum: 6
+2023-09-03 22:11:03,083.numeric_series.INFO Mean: 2.0
+2023-09-03 22:11:03,083.numeric_series.INFO Median: 2
+2023-09-03 22:11:03,083.numeric_series.INFO ------------------
+2023-09-03 22:11:03,083.numeric_series.INFO NumericSeries with name=Week 4 Runs Scored, units=runs, and 5 data points: [3, 6, 2, 7, 4]
+2023-09-03 22:11:03,083.numeric_series.INFO Count: 5
+2023-09-03 22:11:03,083.numeric_series.INFO Sum: 22
+2023-09-03 22:11:03,083.numeric_series.INFO Mean: 4.4
+2023-09-03 22:11:03,083.numeric_series.INFO Median: 4
+2023-09-03 22:11:03,083.numeric_series.INFO ------------------

@@ -124,39 +124,48 @@ if __name__ == "__main__":
     # The constructor method is always the name of the class
     # pass in the information required by the __init__ method defined in the class
 
-    name1 = "Quiz Scores Module 1"
-    units1 = "pts"
-    data1 = [9,9,10, 9, 7, 10]
+    name1 = "Week 1 Runs Scored"
+    units1 = "runs"
+    data1 = [3,4,2, 7, 1]
 
     object1 = NumericSeries(name1, units1, data1)
 
   
     # Create another object
 
-    name2 = "Quiz Scores Module 2"
-    units2 = "pts"
-    data2 = [8, 10, 8, 10, 8, 10,10, 10]
+    name2 = "Week 2 Runs Scored"
+    units2 = "runs"
+    data2 = [8, 0, 3, 4, 2]
 
     object2 = NumericSeries(name2, units2, data2)
     
     # Create another object 
 
-    # use range() to create a list of values from 7 to 10
+    # use range() to create a list of values from 1 to 4
     # list() converts the range object to a list
     # range() is a generator - it creates a sequence of numbers without storing them in memory
     # The arguments in range are from (inclusive) and to (exclusive)
-    data3 = list(range(7,11))    
-    name3 = "Quiz Scores Module 3"
-    units3 = "pts"
+    data3 = list(range(1,4))    
+    name3 = "Week 3 Runs Scored"
+    units3 = "runs"
     
     object3 = NumericSeries(name3, units3, data3)
+
+    # Create another object
+
+    name4 = "Week 4 Runs Scored"
+    units4 = "runs"
+    data4 = [3, 6, 2, 7, 4]
+
+    object4 = NumericSeries(name4, units4, data4)
 
     # log the objects created
     logger.info(f"Created: {object1}")
     logger.info(f"Created: {object2}")
     logger.info(f"Created: {object3}")
+    logger.info(f"Created: {object4}")
 
-    object_list = [object1, object2, object3]
+    object_list = [object1, object2, object3, object4]
 
     # Loop through our objects and get some statistics
     # Rather than using a built-in function and passing in our data
