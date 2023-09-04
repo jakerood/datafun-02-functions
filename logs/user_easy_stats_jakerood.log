@@ -1,0 +1,24 @@
+2023-09-03 21:59:55,078.user_easy_stats_jakerood.INFO ==================================================
+2023-09-03 21:59:55,078.user_easy_stats_jakerood.INFO Today is 2023-09-03 at 09:59 PM
+2023-09-03 21:59:55,080.user_easy_stats_jakerood.INFO Running on: posix Darwin 20.4.0
+2023-09-03 21:59:55,080.user_easy_stats_jakerood.INFO Python version:  3.11.4
+2023-09-03 21:59:55,080.user_easy_stats_jakerood.INFO Python path: /Library/Frameworks/Python.framework/Versions/3.11
+2023-09-03 21:59:55,081.user_easy_stats_jakerood.INFO Working dir: /Users/jakerood/Documents/NW_Missouri/datafun-02-functions
+2023-09-03 21:59:55,081.user_easy_stats_jakerood.INFO ==================================================
+2023-09-03 21:59:55,176.user_easy_stats_jakerood.INFO mean   = 3.75
+2023-09-03 21:59:55,176.user_easy_stats_jakerood.INFO median = 4.00
+2023-09-03 21:59:55,177.user_easy_stats_jakerood.INFO mode   = 4.00
+2023-09-03 21:59:55,177.user_easy_stats_jakerood.INFO var    = 1.93
+2023-09-03 21:59:55,177.user_easy_stats_jakerood.INFO stdev  = 1.39
+2023-09-03 21:59:55,177.user_easy_stats_jakerood.INFO lowest = 2.00
+2023-09-03 21:59:55,177.user_easy_stats_jakerood.INFO highest= 6.00
+2023-09-03 21:59:55,177.user_easy_stats_jakerood.INFO Here's some bivariant data (2 variables, together):
+2023-09-03 21:59:55,178.user_easy_stats_jakerood.INFO Hits:[4, 7, 3, 8, 11, 6, 13, 9]
+2023-09-03 21:59:55,178.user_easy_stats_jakerood.INFO Runs:[2, 4, 2, 4, 6, 3, 5, 4]
+2023-09-03 21:59:55,178.user_easy_stats_jakerood.INFO Calculate the slope and intercept of a best fit straight line:
+2023-09-03 21:59:55,178.user_easy_stats_jakerood.INFO    slope = 0.38
+2023-09-03 21:59:55,179.user_easy_stats_jakerood.INFO    intercept = 0.86
+2023-09-03 21:59:55,179.user_easy_stats_jakerood.INFO Let's use our best fit line to PREDICT a future value.
+2023-09-03 21:59:55,179.user_easy_stats_jakerood.INFO    At future x = 6,
+2023-09-03 21:59:55,180.user_easy_stats_jakerood.INFO    we predict the value of y will be 3.
+2023-09-03 21:59:55,180.user_easy_stats_jakerood.INFO How'd we do? Does this make sense given the data?
