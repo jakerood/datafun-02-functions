@@ -1,0 +1,28 @@
+2023-09-05 13:42:13,008.Random.INFO ==================================================
+2023-09-05 13:42:13,010.Random.INFO Today is 2023-09-05 at 01:42 PM
+2023-09-05 13:42:13,010.Random.INFO Running on: posix Darwin 20.4.0
+2023-09-05 13:42:13,010.Random.INFO Python version:  3.11.4
+2023-09-05 13:42:13,010.Random.INFO Python path: /Library/Frameworks/Python.framework/Versions/3.11
+2023-09-05 13:42:13,011.Random.INFO Working dir: /Users/jakerood/Documents/NW_Missouri/datafun-02-functions
+2023-09-05 13:42:13,011.Random.INFO ==================================================
+2023-09-05 13:42:13,011.Random.INFO Calling get_total_in_fostercare (199969, 191037)
+2023-09-05 13:42:13,011.Random.INFO RETURNING 391006
+2023-09-05 13:42:13,011.Random.INFO Calling get_total_in_fostercare (222644, 213912)
+2023-09-05 13:42:13,011.Random.INFO RETURNING 436556
+2023-09-05 13:42:13,011.Random.INFO Calling get_total_in_fostercare (223042, 214295)
+2023-09-05 13:42:13,011.Random.INFO RETURNING 437337
+2023-09-05 13:42:13,012.Random.INFO Calling get_deficit(1145.44, 503.0)
+2023-09-05 13:42:13,012.Random.INFO RETURNING -642.44
+2023-09-05 13:42:13,014.Random.INFO Absolute value of the deficit = 642.44
+2023-09-05 13:42:13,014.Random.INFO Calling get_percentage_of_males(199969, 391098)
+2023-09-05 13:42:13,014.Random.INFO RETURNING 51.13015152212489
+2023-09-05 13:42:13,015.Random.INFO Rounding down the percentage is 51%
+2023-09-05 13:42:13,015.Random.INFO Calling get_percentage_of_females (191037, 391098)
+2023-09-05 13:42:13,015.Random.INFO RETURNING 48.846324962029975
+2023-09-05 13:42:13,015.Random.INFO Rounding up the percentage is 49%
+2023-09-05 13:42:13,015.Random.INFO Explore some functions in the math module
+2023-09-05 13:42:13,015.Random.INFO math.fabs(deficit) = 642.44
+2023-09-05 13:42:13,015.Random.INFO math.com(5,1) = 5
+2023-09-05 13:42:13,016.Random.INFO math.perm(5,1) = 5
+2023-09-05 13:42:13,016.Random.INFO math.floor(9.7) = 9
+2023-09-05 13:42:13,016.Random.INFO THIS HAS BEEN FUN!
